@@ -1,3 +1,2 @@
 # cpp code templates
-
-Collecttion of programs that demonstrate use of cpp.
+Collection of code snippets for a quick reference.
