@@ -1,3 +1,4 @@
+# CXX_STD = --std=c++98
 # CXX_STD = --std=c++11
 # CXX_STD = --std=c++14
 CXX_STD = --std=c++20
